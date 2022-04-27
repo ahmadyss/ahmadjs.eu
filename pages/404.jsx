@@ -8,7 +8,7 @@ export default class Error404 extends React.Component {
         return (
             <>
                 <Head>
-                    <title>Luna - 404</title>
+                    <title>ahmad - 404</title>
                 </Head>
                 <div className={style.align}>
                     <div className={style.container}>
